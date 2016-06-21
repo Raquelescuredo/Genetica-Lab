@@ -18,6 +18,15 @@ La totoaba es un pez endémico del golfo de California, en la actualidad, está 
 
 La finalidad del presente estudio fue describir la fisiología digestiva en larvas de *T. macdonaldi* mediante la expresión y la actividad de las tres principales proteasas digestivas:tripsina, quimotripsina y pepsina para relacionarlos con el desarrollo del sistema digestivo larval y el régimen de alimentación.
 
+Para ello se tomaron muestras de larvas desde el dia 0 DDE (después de la eclosión) hasta el 20 DDE y se procedió a la cuantificación de la expresión génica, para ello se aisló el RNA
+
+Expresión y actividad de la tripsina y la quimotripsina se observaron tan pronto como el 1 de DPH, y en incrementos su expresión y actividad coincidieron con los cambios en alimentos (en vivo y dietas compuestas) y morfofisiológico desarrollo de los sistemas digestivo accesorio glándulas. En contraste, la pepsina se detectó más tarde durante desarrollo, que incluye el aspecto de la
+glándulas gástricas entre 24 y 28 DPH. Un pico en se detectó la expresión de genes en 16 DPH, pocos días antes de que el desarrollo inicial del estómago en 20 DPH. Un segundo pico de expresión era la pepsina detectado en día 35, seguido de un pico de actividad en
+día 40, coincidiendo con el cambio de vivo para alimento artificial. larvas totoaba mostró una totalmente morfológicamente
+sistema digestivo se desarrolló entre el 24 y 28 DPH, como se demuestra por las observaciones histológicas.
+Sin embargo, la expresión de genes y la actividad de proteasas alcalinas y ácidas se detectaron anteriormente, que indica la funcionalidad del páncreas exocrino y el estómago antes de que el morfológica completa desarrollo de los órganos digestivos. Estos resultados mostraron que se necesitan estudios de integración para completamente entender el desarrollo del sistema digestivo
+desde un punto de vista morfológico y funcional, ya que la organización de las estructuras histológico digestivos no refleja su funcionalidad real. Estas resultados indican que el sistema digestivo de totoaba desarrolla rápidamente durante los primeros días después de la eclosión
+
 
 
 
