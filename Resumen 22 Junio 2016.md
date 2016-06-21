@@ -20,10 +20,8 @@ La finalidad del presente estudio fue describir la fisiología digestiva en larv
 
 Para ello se tomaron muestras de larvas desde el dia 0 DDE (después de la eclosión) hasta el 20 DDE y se procedió a la cuantificación de la expresión génica, para ello se aisló el RNA
 
-Expresión y actividad de la tripsina y la quimotripsina se observaron tan pronto como el 1 de DPH, y en incrementos su expresión y actividad coincidieron con los cambios en alimentos (en vivo y dietas compuestas) y morfofisiológico desarrollo de los sistemas digestivo accesorio glándulas. En contraste, la pepsina se detectó más tarde durante desarrollo, que incluye el aspecto de la
-glándulas gástricas entre 24 y 28 DPH. Un pico en se detectó la expresión de genes en 16 DPH, pocos días antes de que el desarrollo inicial del estómago en 20 DPH. Un segundo pico de expresión era la pepsina detectado en día 35, seguido de un pico de actividad en
-día 40, coincidiendo con el cambio de vivo para alimento artificial. larvas totoaba mostró una totalmente morfológicamente
-sistema digestivo se desarrolló entre el 24 y 28 DPH, como se demuestra por las observaciones histológicas.
+La expresión de la tripsina y la quimotripsina se observaron el día 1 DDE, y los incrementos en los niveles de expresión coincidieron con los cambios en la alimentación y el desarrollo de las glándulas accesorias digestivas. En contraste, la pepsina se detectó más tarde entre el 24 y 28 DDE, se observaron picos en los niveles de expresión los días 16 y 35 DDE coincidiendo con el desarrollo del estómago y el cambio de alimento vivo a alimento balanceado respectivamente.
+
 Sin embargo, la expresión de genes y la actividad de proteasas alcalinas y ácidas se detectaron anteriormente, que indica la funcionalidad del páncreas exocrino y el estómago antes de que el morfológica completa desarrollo de los órganos digestivos. Estos resultados mostraron que se necesitan estudios de integración para completamente entender el desarrollo del sistema digestivo
 desde un punto de vista morfológico y funcional, ya que la organización de las estructuras histológico digestivos no refleja su funcionalidad real. Estas resultados indican que el sistema digestivo de totoaba desarrolla rápidamente durante los primeros días después de la eclosión
 
