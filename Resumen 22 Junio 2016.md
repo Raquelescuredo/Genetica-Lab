@@ -14,7 +14,10 @@
 
 ####Resúmen
 
-La totoaba es un pez endémico del golfo de California incluido en la lista de especies en peligro de estinción (CITES 2005) debido a la sobreexplotación y el deterioro progresivo de su hábitat
+La totoaba es un pez endémico del golfo de California incluido en la lista de especies en peligro de estinción (CITES 2005) debido a la sobreexplotación y el deterioro progresivo de su hábitat.
+La finalidad del presente estudio fue describir la fisiología digestiva en larvas de *T. macdonaldi* mediante la expresión y la actividad de las tres principales proteasas digestivas:tripsina, quimotripsina y pepsina para relacionarlos con el desarrollo del sistema digestivo larval y el régimen de alimentación. Esta informacion proporciona una mejor comprensión de la digestivo
+la función del sistema durante las etapas tempranas de la vida y la lata
+se utilizará para mejorar los procedimientos de crianza re
 
 
 
