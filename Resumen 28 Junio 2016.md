@@ -6,6 +6,6 @@
 
 ######Niels Geijsen,  Melissa Horoschak, Kitai Kim, Joost Gribnau, Kevin Eggan & George Q. Daley
 
-######Nature, vol 427, 8 Enero 2004 
+###### *Nature* Letters , vol 427, 8 Enero 2004 
 
 ####Resúmen
