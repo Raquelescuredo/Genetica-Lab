@@ -10,4 +10,7 @@
 
 ####Resúmen
 
-En este trabajo se ralizó un seguimiento de las células madre embrionarias (ES) en ratón, para ello se aisló el ARN mensajero de los embriones en diferentes fases de desarrollo y se utilizó una RT-PCR para detectar la expresión de los genes implicados en la pluripotncia de las ES y el desarrollo de las células germinales
+En este trabajo se ralizó un seguimiento de las células madre embrionarias (ES) y los gametos masculinos en ratón, para ello se aisló el ARN mensajero procedente de ES en embriones de diferentes fases de desarrollo y en gónada de un oranismo adulto. Se utilizó una RT-PCR para detectar la expresión de los genes implicados en la pluripotncia de las ES y el desarrollo de las células germinales, este conjunto de genes (*Dazl, Piwil2, Rnf17, Rnh2, Tdrd1, Tex14, Oct4, Stella, Fgls*) se expresan exclusivamente en la línea germinal y están ausentes en las células somáticas. Los resultados obtenidos fueron 
+
+
+
