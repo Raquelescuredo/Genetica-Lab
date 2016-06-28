@@ -9,3 +9,5 @@
 ###### *Nature* Letters , vol 427, 8 Enero 2004 
 
 ####Resúmen
+
+En este trabajo se ralizó un seguimiento de las células madre embrionarias (ES) en ratón, para ello se aisló el ARN mensajero de los embriones en diferentes fases de desarrollo y se utilizó una RT-PCR para detectar la expresión de los genes implicados en la pluripotncia de las ES y el desarrollo de las células germinales
