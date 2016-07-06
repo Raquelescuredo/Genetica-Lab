@@ -12,3 +12,5 @@
 ######Gene, Volume 549, Issue 2, 10 October 2014, Pages 258–265
 
 ####Resumen
+
+Los genes de mantenimiento (HKG), son utilizados como genes de referencia en numerosos estudios de análisis de la expresión génica. En este trabajo se evaluó la estabilidad de nueve genes de mantenimiento (ACTB, BGLU, TUBB, CY, GAPDH, HPRTI, RPL5, SDHA and UBC), en abulón rojo (*Haliotis rufescens*). Para este propósito se realizó la extracción y purificación de RNA de diferentes tejidos de abulón (branquia, cabeza y tejido de la glándula digestiva y gonádica), se sintetizó el ADN complementario mediante una transcripción inversa y posteriormente se realizó una PCR cuantitativa en tiempo real (RT-qPCR)
