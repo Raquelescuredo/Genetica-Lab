@@ -16,5 +16,5 @@ Numerosos estudios muestran que los herbicidas como atrazina (ATZ), uno de los m
 
 En este estudio se examinó la concentración de ATZ a la cual se produce estrés oxidativo en el pez zebra (*Danio rerio*), para ello se tomaron muestras de hígado y ovario de hembras adultas de 5 meses que habían sido previamente expuestas a diferentes concentraciones de ATZ. Posteriormente se midió la actividad enzimática y los niveles de expresión de genes que codifican proteínas antioxidantes, tales como CAT, GPx y SOD,  para este propósito se realizó la extracción del RNAm, se sintetizó el ADN complementario mediante una transcripción inversa y posteriormente se realizó una PCR cuantitativa en tiempo real (RT-qPCR) utilizando como gen de mantenimiento la β - actina.
 
-Los resultados muestran que la exposición al herbicida ATZ induce cambios en la actividad enzimática
+Los resultados muestran que la exposición al herbicida ATZ induce cambios en la actividad enzimática, lo que sugiere que la exposición a la ATZ en hembras de pez cebra promueve una respuesta de estrés oxidativo en el hígado. Este estudio demuestra además que los niveles de expresión de genes que codifican proteínas antioxidantes también fueron significativamente superiores en las hembras tratadas con ATZ.
 
